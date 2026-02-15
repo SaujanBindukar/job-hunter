@@ -1,0 +1,142 @@
+{
+  "skills": [
+    {
+      "name": "Flutter",
+      "tier": "core"
+    },
+    {
+      "name": "Dart",
+      "tier": "core"
+    },
+    {
+      "name": "Firebase",
+      "tier": "strong"
+    },
+    {
+      "name": "AWS",
+      "tier": "strong"
+    },
+    {
+      "name": "Node.js",
+      "tier": "strong"
+    },
+    {
+      "name": "PostgreSQL",
+      "tier": "strong"
+    },
+    {
+      "name": "React",
+      "tier": "strong"
+    },
+    {
+      "name": "JavaScript",
+      "tier": "strong"
+    },
+    {
+      "name": "TypeScript",
+      "tier": "strong"
+    },
+    {
+      "name": "Swift",
+      "tier": "strong"
+    },
+    {
+      "name": "CI/CD",
+      "tier": "strong"
+    },
+    {
+      "name": "GitHub Actions",
+      "tier": "strong"
+    },
+    {
+      "name": "HTML",
+      "tier": "peripheral"
+    },
+    {
+      "name": "CSS",
+      "tier": "peripheral"
+    },
+    {
+      "name": "SQL",
+      "tier": "peripheral"
+    },
+    {
+      "name": "SwiftUI",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Xcode",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Riverpod",
+      "tier": "strong"
+    },
+    {
+      "name": "BLoC",
+      "tier": "strong"
+    }
+  ],
+  "titles": [
+    "Senior Flutter Developer",
+    "Mobile Developer",
+    "Full Stack Engineer",
+    "Cross-Platform Developer",
+    "React Developer",
+    "Flutter Developer"
+  ],
+  "keywords": [
+    "flutter",
+    "dart",
+    "firebase",
+    "aws",
+    "node.js",
+    "postgresql",
+    "react",
+    "javascript",
+    "typescript",
+    "swift",
+    "ci/cd",
+    "github actions",
+    "html",
+    "css",
+    "sql",
+    "swiftui",
+    "xcode",
+    "riverpod",
+    "bloc"
+  ],
+  "locations": [
+    "Sydney",
+    "Remote",
+    "Australia"
+  ],
+  "roles": [
+    "Senior Flutter Developer",
+    "Mobile Developer",
+    "Full Stack Engineer",
+    "Cross-Platform Developer",
+    "React Developer",
+    "Flutter Developer"
+  ],
+  "weights": {
+    "companyTier": 1,
+    "location": 0,
+    "titleMatch": 1,
+    "skills": 1,
+    "sponsorship": 0,
+    "recency": 1,
+    "culture": 1,
+    "quality": 1
+  },
+  "minScore": 20,
+  "maxHours": 24,
+  "resultsPerSearch": 20,
+  "excludeSeniority": [
+    "senior",
+    "lead",
+    "staff",
+    "director",
+    "executive"
+  ]
+}
